@@ -7,15 +7,15 @@ class Feld < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/crestai-labs/feld/releases/download/v0.1.0/feld-v0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "59bffb9d7733a1922274437ab18ee7ad6b171f9e65d24238d5c7bea9a9215d7d"
+      url "https://github.com/crestai-labs/feld/releases/download/v0.2.0/feld-v0.2.0-aarch64-apple-darwin.tar.gz"
+      sha256 "09f57e2db6b14fe1ccdfff4f1b7a9cf00a90532eaf938b7ca5b5db2f54367874"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/crestai-labs/feld/releases/download/v0.1.0/feld-v0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "82a24eca125947a8eb9be885908425aa4d3c773ff2c78484cafecb7b418b1bf3"
+      url "https://github.com/crestai-labs/feld/releases/download/v0.2.0/feld-v0.2.0-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "1f41082c7eb479057fbddadcd00e4236ab6eccfc7985e12a7ab94467d24c7927"
     end
   end
 
